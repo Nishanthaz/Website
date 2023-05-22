@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://d3cez36w5wymxj.cloudfront.net/wp-content/uploads/2021/03/10122054/london-bridge-station.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+button{
+     border: none;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     width: 200px;
+     margin-bottom: 5px;
+     border-radius: 5px;
+     
+}
+
+#increment-btn{
+    background-color: lightgray;
+    transition: 0.7s;
+}
+
+
